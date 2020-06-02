@@ -1,0 +1,5 @@
+package Cartas;
+
+public enum TipoDeCarta {
+	NUMERICA, DOBLE, REVERSA, SALTEAR, CAMBIOCOLOR, CAMBIOCOLORMASCUATRO;
+}
